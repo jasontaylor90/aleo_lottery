@@ -1,3 +1,7 @@
+Hi!
+
+Discord: gennarograndi
+
 # lottery.aleo
 
 ## Run Guide
